@@ -1,0 +1,24 @@
+{
+    "name": "sergiohermes/dti-less",
+    "description": "Modulo contendo arquivos less para os sites da Ftec | Faculdades, em ZF2",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "module",
+        "zf2",
+        "dti",
+        "less"
+    ],
+    "homepage": "https://github.com/sergiohermes/DTILess",
+    "authors": [
+        {
+            "name": "Sérgio Ernane Munhós Hermes",
+            "email": "sergiohermes@ftec.com.br"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "DTILess": "src/"
+        }
+    }
+}
